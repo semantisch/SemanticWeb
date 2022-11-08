@@ -1,6 +1,6 @@
-# Mastodon Sociologists
+# Mastodon Semantic Web researchers
 
-This repository provides a most simple web app that helps to bulk follow sociologists on the FOSS microblogging service Mastodon. In it you can create a csv-file that can be uploaded in any accounts mastodon seetings, in order to follow a list of accounts at once.
+Bulk follow researchers in Semantic Web / Linked Data / Knowledge Graphs / Knowledge Representation / Ontology Engineering on the FOSS microblogging service Mastodon. In it you can create a csv-file that can be uploaded in any accounts mastodon seetings, in order to follow a list of accounts at once.
 
 ## Can I use this for my discipline/peer group?
 
