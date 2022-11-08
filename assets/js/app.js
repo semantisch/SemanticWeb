@@ -138,7 +138,7 @@ function buildUserSelectionForm (users) {
 
     const label = document.createElement('label')
     label.setAttribute('for', user.account)
-    label.textContent = `${user.account} (${user.name}) Keywords: ${user.keywords} Languages: ${user.language}`
+    label.textContent = `${user.account} (${user.name}, ${user.language}) | ${user.keywords}`
 
     wrapper.appendChild(label)
 
