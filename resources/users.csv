@@ -1,5 +1,4 @@
 account,name,link,keywords,language
-@Addshore@mas.to,Addshore,https://mas.to/@Addshore,"",en
 @philross@mastodon.social,Phillip Ross,https://mastodon.social/@philross,,en
 @FroehlichMarcel@sigmoid.social,Marcel Fröhlich,https://sigmoid.social/@FroehlichMarcel, "data strategy, data integration, ontology engineering","de, en, nl"
 @olyerickson@fosstodon.org,John Erickson,https://fosstodon.org/web/@olyerickson,"#Rstats, #semanticweb, #webscience",en
@@ -9,6 +8,7 @@ account,name,link,keywords,language
 @SvenLieber@fosstodon.org,Sven Lieber,https://fosstodon.org/@SvenLieber,"Data quality, FAIR data, digital humanities","en, de, nl"
 @brimwats@scholar.social,bri watson,https://scholar.social/web/@brimwats,"Ethics in Linked Data, LODLAM (linked open data in libraries, archives, museums), Homosaurus", en
 @grndstt@fosstodon.org,Pierre-Marie Allard,https://fostodon.org/@grndstt,"linked open data, natural products, open science","en, fr, es"
+@Addshore@mas.to,Addshore,https://mas.to/@Addshore,"",en
 @michael@tech.lgbt,Michael Airhart,https://tech.lgbt/web/@michael,"web data extraction, ontology development, linked data design",en
 @danbri@mastadon.social,Dan Brickley,https://mastodon.social/@danbri,"alife, standards, schemas",en
 @pietercolpaert@mastodon.social,Pieter Colpaert,https://mastodon.social/@pietercolpaert,"public Web APIs and Linked Data","en,nl,fr"
