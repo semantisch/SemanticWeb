@@ -1,4 +1,7 @@
 account,name,link,keywords,language
+@openartdata@mastodon.art,Open Art Data,https://mastodon.art/@openartdata,"linked open data,wikidata,entity linking","en,fr,de"
+@julsraemy@hcommons.social,"Julien A. Raemy",https://hcommons.social/@julsraemy,"Linked Open Usable Data, JSON-LD, Data Modeling","en, de, fr"
+@epoz@blog.epoz.org,"Etienne Posthumus",https://blog.epoz.org/,"linked open data, digital art history, triplestore engineering","en, nl, af"
 @fkraeutli@hcommons.social,Florian Kräutli,https://hcommons.social/@fkraeutli,"Knowledge representation, digital humanities, cidoc-crm","en, de, nl, fr"
 @lysander07@sigmoid.social,Harald Sack,https://sigmoid.social/@lysander07,"knowledge extraction, ontology engineering, exploratory search","en,de"
 @emidiostani@fosstodon.org,Emidio Stani,https://fosstodon.org/@emidiostani,"Linked open data, open source, it architecture",en
