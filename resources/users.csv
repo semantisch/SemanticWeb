@@ -1,5 +1,6 @@
 account,name,link,keywords,language
-@jelabra@mastodon.social,Jelabra,https://mastodon.social/@jelabra,"rdf, knowledge graphs, wikidata","en, es
+@rtroncy@mastodon.top,Raphael Troncy,https://mastodon.top/@rtroncy,"ontology engineering, knowledge graph, nlp","en, fr"
+@jelabra@mastodon.social,Jelabra,https://mastodon.social/@jelabra,"rdf, knowledge graphs, wikidata","en, es"
 @marcorospocher@sigmoid.social,Marco Rospocher,https://sigmoid.social/@marcorospocher,"information extraction, knowledge acquisition, digital humanities","en, it"
 @lechatpito@sigmoid.social,lechatpito,https://sigmoid.social/@lechatpito,"knowledge graphs, data management, graph neural networks","fr, en"
 @veronahe@mas.to,Veronika Heimsbakk,https://mas.to/@veronahe,"SHACL, ontology engineering, OTTR","no, en"
