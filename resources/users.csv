@@ -14,8 +14,8 @@ account,name,link,keywords,language
 @epoz@blog.epoz.org,"Etienne Posthumus",https://blog.epoz.org/,"linked open data, digital art history, triplestore engineering","en, nl, af"
 @fkraeutli@hcommons.social,Florian Kräutli,https://hcommons.social/@fkraeutli,"Knowledge representation, digital humanities, cidoc-crm","en, de, nl, fr"
 @lysander07@sigmoid.social,Harald Sack,https://sigmoid.social/@lysander07,"knowledge extraction, ontology engineering, exploratory search","en,de"
-@emidiostani@fosstodon.org,Emidio Stani,https://fosstodon.org/@emidiostani,"Linked open data, open source, it architecture",en
-@timfinin@sigmoid.social,Tim Finin,https://sigmoid.social/@TimFinin,"knowledge graph, artificial intelligence, cybersecurity",	en
+@emidiostani@fosstodon.org,Emidio Stani,https://fosstodon.org/@emidiostani,"Linked open data, open source, it architecture","en"
+@timfinin@sigmoid.social,Tim Finin,https://sigmoid.social/@TimFinin,"knowledge graph, artificial intelligence, cybersecurity","en"
 @hochstenbach@scholar.social,Patrick Hochstenbach,https://scholar.social/web/@hochstenbach,"rdf logic, event notifications, scholarly publishing","en,nl,id"
 @bergi@mastodon.social,Thomas Bergwinkl,https://mastodon.social/@bergi,"api, javascript","en, de"
 @FroehlichMarcel@sigmoid.social,Marcel Fröhlich,https://sigmoid.social/@FroehlichMarcel, "data strategy, data integration, ontology engineering","de, en, nl"
