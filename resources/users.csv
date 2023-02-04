@@ -1,4 +1,5 @@
 account,name,link,keywords,language
+@argahsuknesib@mastodon.world,Kush,https://mastodon.world/@argahsuknesib,"Stream Reasoning, Linked Data Publishing, Decentralisation", "en"
 @justcodeculture@mastodon.social,Jeffrey Yost,https://mastodon.social/@JustCodeCulture,"ontology engineering, social study of the Semantic Web, wikis","En, Fr"
 @laurentlefort@sigmoid.social,Laurent Lefort,https://sigmoid.social/@laurentlefort,"knowledge graph, ontology engineering, semantic statistics","en, fr"
 @osma@sigmoid.social,Osma Suominen,https://sigmoid.social/@osma,"linked open data, skos, automated subject indexing","en, fi, sv, et"
@@ -44,10 +45,8 @@ account,name,link,keywords,language
 @brechtvdv@fosstodon.org,Brecht Van de Vyvere,https://fosstodon.org/web/@brechtvdv,"linked open data","en,nl"
 @rubenverborgh@mastodon.social,Ruben Verborgh,https://mastodon.social/@rubenverborgh,"decentralization, Web querying, Semantic Web","en,nl,fr"
 @vrandecic@mas.to,Denny Vrandečić,https://mas.to/@vrandecic,"en"
-@argahsuknesib@qoto.org,Kush,https://qoto.org/@argahsuknesib,"stream processing and reasoning","en"
 @demosthenes@mastodon.lol,Jamie McCusker,https://mastodon.lol/web/@demosthenes,"knowledge graphs, ontology engineering, computational biology",en
 @elsavalente@akademienl.social,Elsa Valente,https://akademienl.social/@elsavalente,"Linked open data, metadata, ontologies","en,dut,port"
 @caco3@scholar.social,Karel Berka,https://scholar.social/@caco3,"linked open data, wikidata, biology data","en, cz"
 @fsasaki@qoto.org,Felix Sasaki,https://qoto.org/@fsasaki,"ontology engineering, linguistic linked open data, nlp","de, en, ja"
 @diegotorresdr@mastodon.acm.org,Diego Torres,https://mastodon.acm.org/@diegotorresdr, "Linked open data, FCA, knowledge graphs", "es, en, it"
-@argahsuknesib@mastodon.world,Kush,https://mastodon.world/@argahsuknesib,"Stream Reasoning, Linked Data Publishing, Decentralisation", "en"
