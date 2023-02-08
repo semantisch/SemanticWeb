@@ -37,12 +37,10 @@ account,name,link,keywords,language
 @michael@tech.lgbt,Michael Airhart,https://tech.lgbt/web/@michael,"web data extraction, ontology development, linked data design",en
 @danbri@mastadon.social,Dan Brickley,https://mastodon.social/@danbri,"alife, standards, schemas",en
 @pietercolpaert@mastodon.social,Pieter Colpaert,https://mastodon.social/@pietercolpaert,"public Web APIs and Linked Data","en,nl,fr"
-@semantic@scholar.social,Daniel Dobriy,https://scholar.social/@semantic,"knowledgegraph,linkedopendata, ontology","en,de,ua"
 @dellaglio@mastodon.social,Daniele Dell'Aglio,https://mastodon.social/@dellaglio,"query processing, stream reasoning, data privacy","en,it"
 @pintoch@mamot.fr,Antonin Delpeuch,https://mamot.fr/@pintoch,"","en,fr"
 @whanley@scholar.social,Will Hanley,https://scholar.social/@whanley,"linked open data, historical data, data modelling","en,fr, ar, ota"
 @hochstenbach@scholar.social,Patrick Hochstenbach,https://scholar.social/@hochstenbach,"scholarly communication on the decentralised web","en"
-@AxelPolleres@wien.rocks,AxelPolleres (Q54860587),https://wien.rocks/@AxelPolleres,"datamanagement, knowledgegraph, linkedopendata","en,de,ee,es"
 @katjahose@mastodon.social,Katja Hose,https://mastodon.social/@katjahose,"","en"
 @kabulkurniawan@mastodon.social,Kabul Kurniawan,https://mastodon.social/@kabulkurniawan,"Knowledge graph, Linked Data, Information Security",en
 @dylanvanassche@fosstodon.org,Dylan Van Assche,https://fosstodon.org/@dylanvanassche,"Knowledge Graph generation and Linked Open Data",en
@@ -54,3 +52,5 @@ account,name,link,keywords,language
 @caco3@scholar.social,Karel Berka,https://scholar.social/@caco3,"linked open data, wikidata, biology data","en, cz"
 @fsasaki@qoto.org,Felix Sasaki,https://qoto.org/@fsasaki,"ontology engineering, linguistic linked open data, nlp","de, en, ja"
 @diegotorresdr@mastodon.acm.org,Diego Torres,https://mastodon.acm.org/@diegotorresdr, "Linked open data, FCA, knowledge graphs", "es, en, it"
+@AxelPolleres@wien.rocks,AxelPolleres (Q54860587),https://wien.rocks/@AxelPolleres,"datamanagement, knowledgegraph, linkedopendata","en,de,ee,es"
+@semantic@scholar.social,Daniel Dobriy,https://scholar.social/@semantic,"knowledgegraph,linkedopendata, ontology","en,de,ua"
