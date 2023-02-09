@@ -143,7 +143,7 @@ function buildUserSelectionForm (users) {
       profileLink.textContent = user.account
       profileLink.setAttribute('href', user.link)
       profileLink.setAttribute('target', '_blank')
-      wrapper.appendChild(profileLinkBr)
+      // wrapper.appendChild(profileLinkBr)
       wrapper.appendChild(profileLink)
     }
     
