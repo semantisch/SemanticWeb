@@ -135,22 +135,33 @@ function buildUserSelectionForm (users) {
     input.setAttribute('id', user.account)
 
     wrapper.appendChild(input)
-
-    const label = document.createElement('label')
-    label.setAttribute('for', user.account)
-    label.textContent = `${user.account} (${user.name} | ${user.keywords} | ${user.language} ) `
-
-    wrapper.appendChild(label)
-
+    
     if ('link' in user && user.link.trim() !== '') {
-      const profileLinkBr = document.createElement('br')
+      // const profileLinkBr = document.createElement('br')
       const profileLink = document.createElement('a')
-      profileLink.textContent = user.link.replace('https://', '')
+      // profileLink.textContent = user.link.replace('https://', '')
+      profileLink.textContent = user.account
       profileLink.setAttribute('href', user.link)
       profileLink.setAttribute('target', '_blank')
       wrapper.appendChild(profileLinkBr)
       wrapper.appendChild(profileLink)
     }
+    
+    const label = document.createElement('label')
+    label.setAttribute('for', user.account)
+    label.textContent = ` (${user.name} | ${user.keywords} | ${user.language} ) `
+
+    wrapper.appendChild(label)
+
+    //     if ('link' in user && user.link.trim() !== '') {
+    //       const profileLinkBr = document.createElement('br')
+    //       const profileLink = document.createElement('a')
+    //       profileLink.textContent = user.link.replace('https://', '')
+    //       profileLink.setAttribute('href', user.link)
+    //       profileLink.setAttribute('target', '_blank')
+    //       wrapper.appendChild(profileLinkBr)
+    //       wrapper.appendChild(profileLink)
+    //     }
 
     container.appendChild(wrapper)
   }
